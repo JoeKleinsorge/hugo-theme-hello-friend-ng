@@ -46,6 +46,7 @@
 		margin: 40px -50px;
 		width: $max-width;
 		max-width: $max-width;
+		overflow: hidden;
 		@media #{$media-size-tablet} {
 			margin: 20px 0;
 			width: 100%;
@@ -73,11 +74,6 @@
 
 		svg {
 			margin-right: 0.8em;
-		}
-
-		.views {
-			display: inline-block;
-			vertical-align: -0.125em;
 		}
 
 		.tag {
