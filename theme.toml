@@ -7,8 +7,8 @@ features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.30
 
 [author]
-  name = "Joey Kleinsorge"
-  homepage = "https://JoeyKleinsorge.com"
+  name = "Joe Kleinsorge"
+  homepage = "https://blog.Kleinsorge.dev"
 
 [original]
   name = "Djordje Atlialp"
